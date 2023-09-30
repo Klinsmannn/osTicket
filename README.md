@@ -24,7 +24,7 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 
 <h2>Ticket Lifecycle Stages</h2>
 
-- Intake
+- Starting Off
 - Assignment and Communication
 - Working the Issue
 - Resolution
@@ -36,22 +36,35 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Go to your osTicket homepage and log in. Make sure IIS and prerequisites are enabled and installed or your login page wont show up. (http://localhost/osTicket/scp/login.php)
+
 </p>
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://github.com/Klinsmannn/osTicket/assets/146140975/1d86afe1-cf02-42be-afa3-0e131e4bdf83">
+
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Go to your agent window and look at your tickets. Generally you want to do your urgent tickets first that are most severe unless otherwise instructed by your lead or Boss. Communicate as much as possible about wether the ticket was handed off or the SLA was changed. Communicate back and forth with the customer so their not left wondering. 
 </p>
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://github.com/Klinsmannn/osTicket/assets/146140975/41c81fd0-f726-4736-a49b-684b628d3a9b">
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+  Change settings on ticket and reassign if necessary to the appropriate teams or groups so the SLA is done on time. The SLA is the length of time to resolve the Ticket. Some tickets are handed off to other agents or teams because of their required permissions.
 </p>
 <br />
+
+<p>
+<img src="https://github.com/Klinsmannn/osTicket/assets/146140975/ad36622c-ab15-43ed-a89b-371bad98456e">
+<img src="https://github.com/Klinsmannn/osTicket/assets/146140975/da5a0157-bd09-4c36-90bf-b2a3a189177c">
+
+
+
+ 
+
+</p>
+Change ticket status to closed out or resolved when your done and reply back to whoever made the ticket so their updated.😊
