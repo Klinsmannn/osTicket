@@ -46,7 +46,7 @@ Go to your osTicket homepage and log in. Make sure IIS and prerequisites are ena
 
 </p>
 <p>
-Go to your agent window and look at your tickets. Generally you want to do your urgent tickets first that are most severe unless otherwise instructed by your lead or Boss. Communicate as much as possible about wether the ticket was handed off or the SLA was changed. Communicate back and forth with the customer so their not left wondering. 
+Go to your agent window and look at your tickets. Generally you want to do your tickets by oldest first but that might change due to other ticket urgency or Lead/Boss has other assignment for you. Communicate as much as possible about wether the ticket was finished,handed off, delayed or the SLA was changed. Communicate back and forth with the customer so their not left wondering. 
 </p>
 <br />
 
@@ -67,4 +67,4 @@ Go to your agent window and look at your tickets. Generally you want to do your 
  
 
 </p>
-Change ticket status to closed out or resolved when your done and reply back to whoever made the ticket so their updated.😊
+Change ticket status to closed out or resolved when your done and reply back to whoever made the ticket so their updated. When responding back to customers please be courteous and professional the whole time. 😊
